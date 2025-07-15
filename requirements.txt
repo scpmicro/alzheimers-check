@@ -4,3 +4,4 @@ numpy
 scikit-fuzzy
 scikit-learn
 gunicorn
+networkx
